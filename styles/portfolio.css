@@ -209,4 +209,18 @@ main {
 
 .Contact {
     display: flex;
+    gap: 100px;
+    background-color: #FFF8F3;
+    padding: 130px;
+}
+.input-text{
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+.textarea-design{
+    border-radius: 10px;
+
+}
+.btn-primary{
+    border-radius: 15px;
 }
